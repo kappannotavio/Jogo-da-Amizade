@@ -24,9 +24,6 @@
     <li>C</li>
   </ul>
 
-  <h2>📸 Prévia do Projeto</h2>
-  https://github.com/user-attachments/assets/194caabe-c821-4384-8c4c-666db2e7699a
-
   <h2>👨‍💻 Autor</h2>
   <p>Desenvolvido por <strong>Otávio Kappann</strong></p>
 
